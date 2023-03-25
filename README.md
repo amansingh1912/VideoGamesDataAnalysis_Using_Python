@@ -2,6 +2,9 @@
 
 It is a brief analysis on the Video Games dataset taken from Kaggle website.
 
+![Video Games Data](https://user-images.githubusercontent.com/72240938/227703334-97b290a1-6ee3-4756-a125-3e2184d9e812.jpg)
+
+
 ### Tool Used: Pycharm
 
 Here, I asked several questions with respect to the dataset and on that basis and then answered them using Python.
